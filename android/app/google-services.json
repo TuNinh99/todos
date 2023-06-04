@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "730594576128",
+    "project_id": "todos-a",
+    "storage_bucket": "todos-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730594576128:android:09a8f0457e414f1d9e95e5",
+        "android_client_info": {
+          "package_name": "ntn.app.todos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730594576128-84u3o19uainllbk6n2oknk06v60ua0g0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ntn.app.todos",
+            "certificate_hash": "08ee18be9035bc12d3b09e9aa9d792023692080a"
+          }
+        },
+        {
+          "client_id": "730594576128-314u1guu7ktjk0gsfs42mmhlo6mj4ebd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxF9D_WwxmXf4Hzb4S28jGT8HYdBJFj9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730594576128-314u1guu7ktjk0gsfs42mmhlo6mj4ebd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
